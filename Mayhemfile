@@ -1,0 +1,5 @@
+project: jbgreenh/atomicparsley
+target: AtomicParsley
+
+cmds:
+  - cmd: /AtomicParsley @@ -E
